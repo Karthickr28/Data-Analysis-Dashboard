@@ -1,4 +1,4 @@
-# Business Insight Dashboard (Interactive Dashboard creation using MS Excel)
+![image](https://github.com/user-attachments/assets/330e2531-bcc9-4aaf-8a5c-33b73190938c)# Business Insight Dashboard (Interactive Dashboard creation using MS Excel)
 ## Project Objective
 The Store wants to create an annual sales report for 2022. So that, the owner of the store can understand their customers and grow more sales in 2023 & 2024.
 
@@ -24,4 +24,14 @@ The Store wants to create an annual sales report for 2022. So that, the owner of
 
 ## Dashboard
 ![Dashboard pic](https://github.com/user-attachments/assets/9e03fb97-d928-4d0c-996a-b3961592d524)
+
+## Project Insight
+- Beauty & Health has a profit margin of 23% with a 10% discount rate.
+- The states in the West sold more quantity compared to other parts.
+- The Sports & Outdoors product category sold more products.
+- The total of $47,947.02 has been generated as revenue.
+- The wholesale customer segment generated more sales throughout the year.
+
+## Final Conclusion:
+To improve the sales of the Store, a strategic marketing plan focused on wholesale segment on the west side should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 
